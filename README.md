@@ -12,9 +12,15 @@ Data Cleaning
 Dashboard Development
 KPI Reporting
 
-### I'm currently working on:
+Featured Projects:
+📊 Sales Performance Dashboard
+Power BI | SQL | DAX
 
-- Travelling-Tour Block Project
+📈 Customer Churn Analysis
+SQL | MySQL
+
+📋 HR Analytics Dashboard
+Excel | Power Query
 
 ### :nerd_face: I'm currently learning:
 
