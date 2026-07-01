@@ -1,20 +1,16 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Ritu sabu 👨‍💻
 
-I am a Full Stack Web Developer. I am passionate about technologies and love to learn new things.
+Data Analyst | Power BI | SQL | Excel | KPI Reporting
 
-#### 🔭 I’m currently looking for new opportunities .
+Data and Reporting professional with 4.8+ years of experience in reporting, dashboard creation, KPI analysis, and business insights. Passionate about transforming data into meaningful dashboards and actionable insights.
 
-
-## ⚡ Tech Stack
-
-Here are a few things I've picked up along my learning journey.
-
-* 🗣 Python
-* 🖇️ Django
-* 🛢️ Database: SQL, SQLite
-* :octocat: Git | GitHub
-* 🌐 HTML | CSS
-* ☁ JavaScript
+## ⚡ Tech Skills
+SQL (Joins, CTE, Window Functions)
+Power BI (DAX, Power Query, Data Modelling)
+Excel (Pivot, XLOOKUP, Power Pivot)
+Data Cleaning
+Dashboard Development
+KPI Reporting
 
 ### I'm currently working on:
 
@@ -22,18 +18,14 @@ Here are a few things I've picked up along my learning journey.
 
 ### :nerd_face: I'm currently learning:
 
-- JavaScript
-
-### :thinking: I want to learn:
-
-- React js
-- MySQL
-- API development
+Advanced SQL
+Power BI DAX
+Data Storytelling
 
 
 ## 📫 Get in touch
 - LinkedIn - [Ritu Sabu](https://www.linkedin.com/in/ritu-sabu/)
-- Instagram - [Ritu Sabu](https://www.instagram.com/ritu_sabu/)
+
 
 
  or give some ♥ on [mail](mailto:ritusabu12@gmail.com) .
