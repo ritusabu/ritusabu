@@ -6,13 +6,19 @@ Data and Reporting professional with 4.8+ years of experience in reporting, dash
 
 ## ⚡ Tech Skills
 SQL (Joins, CTE, Window Functions)
+
 Power BI (DAX, Power Query, Data Modelling)
+
 Excel (Pivot, XLOOKUP, Power Pivot)
+
 Data Cleaning
+
 Dashboard Development
+
 KPI Reporting
 
 Featured Projects:
+
 📊 Sales Performance Dashboard
 Power BI | SQL | DAX
 
