@@ -28,7 +28,7 @@ Power BI | SQL | DAX
 📈  Telecom Customer Retention & Revenue Attrition Predictor
 Power BI | SQL | DAX
 
-### [Enterprise Workspace Dynamic and Talent Operations System](https://github.com/ritusabu/enterprise-workspace-dynamic-talent-operations)
+### [Enterprise Workspace Dynamic and Talent Operations System](https://github.com/ritusabu/Enterprise-Workforce-Dynamics-System)
 Advanced Excel | Power Query | Power Pivot
 
 ### :nerd_face: I'm currently learning:
