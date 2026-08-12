@@ -19,7 +19,9 @@ KPI Reporting
 
 Featured Projects:
 
-📊 Enterprise Finance & Profitability Intelligence
+📊 ## Projects
+
+### [Bank Customer Churn Analysis – Power BI](https://github.com/ritusabu/bank-customer-churn-analysis)
 Power BI | SQL | DAX
 
 📊 Global Supply Chain & Sales Optimization Engine
