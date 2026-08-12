@@ -21,16 +21,16 @@ Featured Projects:
 
 📊 ## Projects
 
-### [Bank Customer Churn Analysis – Power BI](https://github.com/ritusabu/bank-customer-churn-analysis)
+### [Bank Customer Churn Analysis](https://github.com/ritusabu/bank-customer-churn-analysis)
 Power BI | SQL | DAX
 
-📊 Global Supply Chain & Sales Optimization Engine
+📊 ### [Global Supply Chain & Sales Optimization Engine](https://github.com/ritusabu/sales-performance-dashboard)
 Power BI | SQL | DAX
 
 📈  Telecom Customer Retention & Revenue Attrition Predictor
 Power BI | SQL | DAX
 
-📋 Enterprise Workforce Dynamics & Talent Operations System
+📋 ### [Enterprise Workspace Dynamic and Talent Operations System](https://github.com/ritusabu/enterprise-workspace-dynamic-talent-operations)
 Advanced Excel | Power Query | Power Pivot
 
 ### :nerd_face: I'm currently learning:
