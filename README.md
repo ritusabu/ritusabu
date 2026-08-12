@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Ritu sabu 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Ritu Sabu 👨‍💻
 
 Data Analyst | Power BI | SQL | Excel | KPI Reporting
 
@@ -19,14 +19,17 @@ KPI Reporting
 
 Featured Projects:
 
-📊 Sales Performance Dashboard
+📊 Enterprise Finance & Profitability Intelligence
 Power BI | SQL | DAX
 
-📈 Customer Churn Analysis
-SQL | MySQL
+📊 Global Supply Chain & Sales Optimization Engine
+Power BI | SQL | DAX
 
-📋 HR Analytics Dashboard
-Excel | Power Query
+📈  Telecom Customer Retention & Revenue Attrition Predictor
+Power BI | SQL | DAX
+
+📋 Enterprise Workforce Dynamics & Talent Operations System
+Advanced Excel | Power Query | Power Pivot
 
 ### :nerd_face: I'm currently learning:
 
