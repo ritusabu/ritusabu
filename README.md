@@ -17,20 +17,18 @@ Dashboard Development
 
 KPI Reporting
 
-Featured Projects:
-
-📊 ## Projects
+📊 ## Featured Projects:
 
 ### [Bank Customer Churn Analysis](https://github.com/ritusabu/bank-customer-churn-analysis)
 Power BI | SQL | DAX
 
-📊 ### [Global Supply Chain & Sales Optimization Engine](https://github.com/ritusabu/sales-performance-dashboard)
+ ### [Global Supply Chain & Sales Optimization Engine](https://github.com/ritusabu/sales-performance-dashboard)
 Power BI | SQL | DAX
 
 📈  Telecom Customer Retention & Revenue Attrition Predictor
 Power BI | SQL | DAX
 
-📋 ### [Enterprise Workspace Dynamic and Talent Operations System](https://github.com/ritusabu/enterprise-workspace-dynamic-talent-operations)
+### [Enterprise Workspace Dynamic and Talent Operations System](https://github.com/ritusabu/enterprise-workspace-dynamic-talent-operations)
 Advanced Excel | Power Query | Power Pivot
 
 ### :nerd_face: I'm currently learning:
